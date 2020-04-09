@@ -1,0 +1,16 @@
+body{
+  font-family: 'Roboto', sans-serif;}
+
+
+#nailsright{
+  fill: rgb(199, 161, 236);
+}
+#nailsleft{
+  fill:rgb(217, 255, 0);
+}
+#hands{
+  fill: tan;
+}
+#type{
+  fill:black;
+}
